@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+First Github project - confused af at the moment. Hopefully this will change very soon. 
